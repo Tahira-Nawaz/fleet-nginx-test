@@ -1,0 +1,4 @@
+defaultNamespace: nginx-test
+targets:
+- name: all-clusters
+  clusterSelector: {}
