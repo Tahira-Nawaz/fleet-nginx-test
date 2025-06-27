@@ -1,4 +1,6 @@
 defaultNamespace: nginx-test
 targets:
-- name: all-clusters
-  clusterSelector: {}
+  - name: staging-target
+    clusterSelector:
+      matchLabels:
+        env: staging
