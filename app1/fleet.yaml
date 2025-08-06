@@ -1,4 +1,4 @@
-defaultNamespace: nginx
+defaultNamespace: app1-ns
 targets:
-  - name: target-cluster
+  - name: only-cluster-a
     clusterName: cluster-752a39af0f90

@@ -1,4 +1,4 @@
-defaultNamespace: nginx-test
+defaultNamespace: app2-ns
 targets:
-  - name: target-cluster
-    clusterName: cluster-b3d91733cd9d 
+  - name: only-cluster-b
+    clusterName: cluster-b3d91733cd9d
