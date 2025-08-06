@@ -1,7 +1,6 @@
+defaultNamespace: app1-ns
+
 deployments:
-  - name: deploy-to-cluster-a
+  - name: app1-cluster-a
     targets:
       - clusterName: cluster-752a39af0f90
-    helm:
-      releaseName: app1
-defaultNamespace: app1-ns

@@ -1,7 +1,6 @@
+defaultNamespace: app2-ns
+
 deployments:
-  - name: deploy-to-cluster-b
+  - name: app2-cluster-b
     targets:
       - clusterName: cluster-b3d91733cd9d
-    helm:
-      releaseName: app2
-defaultNamespace: app2-ns
