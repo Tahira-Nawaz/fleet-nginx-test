@@ -4,7 +4,7 @@
 #     clusterSelector:
 #       matchLabels:
 #         env: staging
-defaultNamespace: default
+defaultNamespace: nginx-test
 targets:
 - name: target-cluster
   clusterName: cluster-b3d91733cd9d
