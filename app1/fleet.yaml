@@ -1,4 +1,4 @@
-defaultNamespace: nginx-test
+defaultNamespace: nginx
 targets:
   - name: target-cluster
     clusterName: cluster-b3d91733cd9d
