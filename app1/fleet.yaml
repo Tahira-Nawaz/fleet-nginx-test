@@ -1,4 +1,4 @@
 defaultNamespace: nginx
 targets:
   - name: target-cluster
-    clusterName: cluster-b3d91733cd9d
+    clusterName: cluster-752a39af0f90
