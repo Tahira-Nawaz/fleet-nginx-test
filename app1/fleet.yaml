@@ -1,4 +1,4 @@
 defaultNamespace: app1-ns
 targets:
-  - name: cluster-4968dab89dcc
+  - name: target-app1
     clusterName: cluster-4968dab89dcc
