@@ -1,6 +1,4 @@
 defaultNamespace: app2-ns
-
-deployments:
+targets:
   - name: app2-cluster-b
-    targets:
-      - clusterName: cluster-b3d91733cd9d
+    clusterName: cluster-b3d91733cd9d
