@@ -1,4 +1,4 @@
 defaultNamespace: app2-ns
 targets:
   - name: target-app2
-    clusterName: cluster-b3d91733cd9d
+    clusterName: my-cluster
