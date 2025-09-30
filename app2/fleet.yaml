@@ -1,4 +1,4 @@
-defaultNamespace: app1-ns
+defaultNamespace: app2-ns
 targets:
   - name: staging-target
     clusterSelector:
