@@ -1,4 +1,6 @@
 defaultNamespace: app1-ns
 targets:
-  - name: target-app1
-    clusterName: my-cluster
+  - name: staging-target
+    clusterSelector:
+      matchLabels:
+        env: staging
